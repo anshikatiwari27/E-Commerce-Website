@@ -1,1 +1,2 @@
 # E-Commerce-Website
+E-Commerce website built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The front-end is developed using React.js to display products, handle user login and registration, and manage the shopping cart. The back-end, developed with Express.js and Node.js, provides APIs for adding, updating, displaying products, and managing cart items. MongoDB is used for the database to store product and user data.
